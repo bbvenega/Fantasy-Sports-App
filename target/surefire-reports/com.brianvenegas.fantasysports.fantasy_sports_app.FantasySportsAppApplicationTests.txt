@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.brianvenegas.fantasysports.fantasy_sports_app.FantasySportsAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.826 s -- in com.brianvenegas.fantasysports.fantasy_sports_app.FantasySportsAppApplicationTests
